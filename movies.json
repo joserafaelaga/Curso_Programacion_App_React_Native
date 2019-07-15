@@ -1,0 +1,36 @@
+{
+"title": "The Basics - Networking",
+"description": "Your app fetched this from a remote endpoint!",
+"movies": [
+{
+"id": "1",
+"title": "La Quinta Fase",
+"releaseYear": "2009",
+"image":"http://1.bp.blogspot.com/_mu20T7a5Kzw/S9SOXnuM4xI/AAAAAAAAClY/cCwfyfm1aXg/s1600/la+cuarta+fase.png"
+},
+{
+"id": "2",
+"title": "Back to the Future",
+"releaseYear": "1985",
+"image":"https://imagessl0.casadellibro.com/m/ig/0/5806760.jpg"
+},
+{
+"id": "3",
+"title": "The Matrix",
+"releaseYear": "1999",
+"image":"https://www.abc.es/media/play/2018/12/29/matrix-peli-kEzC--1248x698@abc.jpg"
+},
+{
+"id": "4",
+"title": "Inception",
+"releaseYear": "2010",
+"image":"https://assets.pinshape.com/uploads/image/file/114010/inception-spinning-top-3d-printing-114010.jpg"
+},
+{
+"id": "5",
+"title": "Interstellar",
+"releaseYear": "2014",
+"image":"https://sextabutaca.com/wp-content/uploads/2018/07/big_1522729968_image.jpg"
+}
+]
+}
